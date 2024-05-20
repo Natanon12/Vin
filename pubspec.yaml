@@ -1,0 +1,39 @@
+name: vin
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_easyloading: ^3.0.5
+  page_transition: ^2.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/1.png
+    - assets/2.png
+    - assets/banner.jfif
+    - assets/icons-facebook.png
+    - assets/icons-google-plus.png
+    - assets/icons-line.png
+    - assets/pngegg.png
+    - assets/map.png
+    - assets/icons8-bullet-list-1004.png
+    - assets/deliverybox.png
+    - assets/truck.png
+    - assets/closebox.png
+    - assets/line-icon.png
+    - assets/Box.png
+    - assets/star.png
+    - assets/Facebook_Logo_(2019).png.webp
